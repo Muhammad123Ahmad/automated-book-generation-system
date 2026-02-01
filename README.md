@@ -23,7 +23,7 @@ A powerful, modular AI agent built with **Python**, **Streamlit**, and **Groq (L
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/automated-book-generation-system.git
+    git clone https://github.com/Muhammad123Ahmad/automated-book-generation-system.git
     cd automated-book-generation-system
     ```
 
