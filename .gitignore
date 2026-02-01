@@ -1,0 +1,25 @@
+# Environment Variables (Sensitive Data)
+.env
+.env.local
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Database (Local SQLite)
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+env/
+.venv/
